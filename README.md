@@ -1,2 +1,2 @@
-# K8-training
-Repository for docker and kubernetes training
+# K8-training on docker and kubernetes
+Repository for docker and kubernetes training 
